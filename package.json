@@ -4,7 +4,7 @@
   "description": "### Install node.js using Ubuntu snap",
   "main": "index.js",
   "engines": {
-    "node": "17.4.0"
+    "node": "17.4.0",
     "npm": "8.4.1"
   },
   "scripts": {
